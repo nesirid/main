@@ -1,2 +1,0 @@
-# main
-For Code Academy
